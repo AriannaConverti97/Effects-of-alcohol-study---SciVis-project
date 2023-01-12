@@ -22,3 +22,6 @@ All'interno della repository è possibile trovare il notebook e il pdf con le re
 - Brainstorming
 - UI & UX
 - Sviluppi futuri
+
+## Contributors
+- Arianna Converti
