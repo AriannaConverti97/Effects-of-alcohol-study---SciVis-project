@@ -11,7 +11,7 @@ All'interno della repository è possibile trovare il notebook e il pdf con le re
 - Decessi a causa dell'alcol
 - Abuso di alcol e malattie correlate
 - Effetto dell'alcol sullo studio: case study Portogallo
-- Effetto dell'alcol sullo studio: case study Italia
+- Effetto dell'alcol sullo studio: case study Italia utilizzando dati istat (https://www.istat.it/it/archivio/129916)
 - Raccolta e creazione di un dataset per l'Italia
 - Distribuzione età tra studenti universitari e scuole superiori
 - Correlazione tra voti ricevuti e consumo di alcol distinti per scuole
